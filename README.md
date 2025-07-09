@@ -1,2 +1,4 @@
-# SystemMonitor
-System Dashboard/Monitor mit Python/QT-Gui für Linux und Windows
+
+## pips
+
+<pre>pip install pyside6 psutil</pre>
